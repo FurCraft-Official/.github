@@ -22,6 +22,8 @@
 
 * **Fur‑Img‑API_V2** — 一个轻量级的随机图片 API 服务
 
+* **Fur-img-api-next** — 人工重写的随机图片API服务
+
 * **FurAPI‑mc** — 查询 Minecraft 游戏或服务器状态及信息
 
 * **GMI** — 精神健康相关指南项目（Forked）
